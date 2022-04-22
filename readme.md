@@ -1,3 +1,2 @@
-# hello
+Hallo und guten Tag!
 
-# hi
