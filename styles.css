@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(140, 209, 206);
+
+}
+nav ul li {
+    list-style: none;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.box img {
+    object-fit: cover;
+    border: 1px solid black;
+    size: 20%;
+    height: 300px;
+    align-items: center;
+    margin-left: 42.5%;
+    } 
+#topbutton {
+    text-decoration: none;
+}
